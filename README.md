@@ -19,5 +19,3 @@ Make Sure you have Python (3.9.0)  installed.
 * [Note that the Spammer will start after 30 seconds of opening it, so you have enough time to open the victims chat.] 
 * To stop the application press ctrl+c on terminal or Close it. 
 </br >
-## Donation [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/RohanDas28/) 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/rohandas28/) 
