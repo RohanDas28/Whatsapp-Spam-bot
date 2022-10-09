@@ -1,8 +1,9 @@
 import pyautogui
-import webbrowser
-import time 
-webbrowser.open("web.whatsapp.com")
-time.sleep(30)
-while True:
-    pyautogui.press("R")
-    pyautogui.press("enter")
+import time
+time.sleep(5)
+f = open('bee.txt', 'r')
+
+for word in f:
+    pyautogui.typewrite(word)
+    pyautogui.press('enter')
+
